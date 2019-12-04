@@ -1,0 +1,19 @@
+INSTRUCCIONES
+
+El proyecto : GOLF CLUB fue desarrollado por Belkis Yazmin Vasquez Peña, matricula 2018-6504.
+
+Esta es una pagina web de un club de golf:
+
+Su base de datos esta en la nube, puede acceder sin necesidad de una copia de la base de datos
+
+Si una persona quiere ser socio del club puede registrarse a traves de la pagina de registros 
+y luego llenar con sus datos el registro
+
+Los socios pueden iniciar sesion atraves de la pagina de iniciar sesion
+
+Solo los administradores pueden acceder al mantenimiento de socios,Tipos de membresia, y afiliados (crear, modificar, ver(detalle) o eliminar), 
+ademas pueden ver la lista de los usuarios que ya se han creado.(para saber los accesos de administrador ver el archivo Acceso de administrador. txt 
+en la carpeta del proyecto.)
+
+
+
